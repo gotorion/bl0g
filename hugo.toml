@@ -1,0 +1,4 @@
+baseURL = 'https://blog.lijunhui.me/'
+locale = 'en-us'
+title = 'Welcome'
+theme = 'ananke'
