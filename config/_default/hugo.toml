@@ -1,0 +1,15 @@
+baseURL = 'https://blog.lijunhui.me/'
+locale = 'zh-CN'
+title = '咎莫大于欲得'
+
+[module]
+
+[[module.imports]]
+
+disable = false
+
+ignoreConfig = false
+
+ignoreImports = false
+
+path = 'github.com/gohugo-ananke/ananke/v2'
