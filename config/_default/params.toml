@@ -2,3 +2,4 @@
 
 site_logo = "img/logo.svg"
 featured_image_class = "cover bg-center"
+hideMadeWithLine = true
