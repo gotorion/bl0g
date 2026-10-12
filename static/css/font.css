@@ -1,4 +1,12 @@
-  :root {
+@font-face {
+  font-family: "Source Han Serif SC";
+  src: url("https://cdn.jsdelivr.net/npm/cn-fontsource-source-han-serif-sc-vf-regular/SourceHanSerifSC-VF.woff2") format("woff2-variations");
+  font-weight: 200 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
     --font-main: "Source Han Serif SC", "Source Han Serif CN", serif;
     --font-secondary: "Source Han Serif SC", "Source Han Serif CN", serif;
   }
